@@ -20,6 +20,7 @@
     of the user interface and user experience for Mayan EDMS.
     The goal is to reduce the complexity and make it more suitable for
     home users. Think of Open Paperless as a lightweight version of Mayan EDMS.
+    一个用于扫描，索引和存档所有纸质文档的文件管理系统。可以OCR，预览，标签，签名，发送和接收文件。还有其工作流系统，基于角色的访问控制和REST API。
   <p>
 </div>
 
